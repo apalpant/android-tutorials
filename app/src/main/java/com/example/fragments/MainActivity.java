@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements Callback{
     }
 
     @Override
-    public void onButtonClick(int id) {
+    public void onClickEvent(int id) {
         mFragmentTransaction = mFragmentManager.beginTransaction();
 
         Fragment result = null;
