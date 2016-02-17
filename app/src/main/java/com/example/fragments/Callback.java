@@ -1,4 +1,4 @@
-package com.example.fragmentsexample;
+package com.example.fragments;
 
 public interface Callback {
 
